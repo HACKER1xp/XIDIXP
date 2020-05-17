@@ -283,7 +283,7 @@ def menu():
 	print "  \033[1;32m⚡\033[1;96m      Logged in User Info\033[1;32m⚡"
 	print "	   \033[1;97m Name\033[1;97m:\033[1;94m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;97m:\033[1;94m"+id+"\x1b[1;97m              "
-	print "\033[1;93mTECH-ABM THE OFFICIAL PROGRAMMER[ P•O•P ]"
+	print "\033[1;93mXP-TRICKER THE OFFICIAL PROGRAMMER[ X°P°T]"
 	
 	print "\033[1;32m⊱• ──────────── ──────────── ──────────── •⊰"
 		
